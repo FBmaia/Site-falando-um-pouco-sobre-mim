@@ -1,0 +1,73 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+header {
+    background-color:yellow;
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-item:hover {
+    color: #fff;
+    background-color: green;
+}
+hr {
+    margin-top: 70px !important;
+    width: 70px !important;
+    height: 6px !important;
+    color:#333533;
+    border-radius: 4px;
+    opacity: 1 !important;
+}
+.titulo {
+    font-size: 36px;
+    font-weight: 700;
+}
+.sub-titulo {
+    font-size: 21px;
+    font-weight: 700;
+}
+.texto {
+    text-align: justify;
+    font-size: 24px;
+    font-weight: 400;
+}
+.textoproa {
+    font-size: 20px;
+    font-weight: 500;
+}
+.fotoproa{
+    border-radius: 10px;
+    height:200px;
+}
+.brunomars{
+    text-align: center;
+}
+.queen{
+    text-align: center;
+}
+.dualipa{
+    text-align: center;
+}
+.fotoserie{
+    height: 350px;
+    width: 500px;
+}
+.series_filmes{
+    text-align: center;
+}
+.titulosf {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+.sub-titulosf {
+    font-size: 21px;
+    font-weight: 700;
+    text-align: center;
+}
+.textosf {
+    text-align: justify;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
