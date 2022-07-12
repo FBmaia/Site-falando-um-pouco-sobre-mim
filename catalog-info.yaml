@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Site-falando-um-pouco-sobre-mim
+  annotations:
+    github.com/project-slug: FBmaia/Site-falando-um-pouco-sobre-mim
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
